@@ -1,0 +1,6 @@
+framework module Pods_Be_Helpful_App {
+  umbrella header "Pods-Be_Helpful_App-umbrella.h"
+
+  export *
+  module * { export * }
+}
